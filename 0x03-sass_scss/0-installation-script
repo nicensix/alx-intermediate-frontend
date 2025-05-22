@@ -1,0 +1,4 @@
+STEPS TAKEN TO INSTALL SASS
+# I install Node with this command on windows machine: nvm install 20.16
+# After Node Installation I then installed sasss globally using the following command: npm install -g sass
+# I then check the version of sass installed using the command: sass --version
